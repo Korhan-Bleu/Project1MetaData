@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>standard-home</defaultLandingTab>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <tabs>standard-Chatter</tabs>
+    <tabs>standard-Campaign</tabs>
+    <tabs>standard-Lead</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>standard-Opportunity</tabs>
+    <tabs>standard-Forecasting3</tabs>
+    <tabs>standard-Contract</tabs>
+    <tabs>standard-Order</tabs>
+    <tabs>standard-Invoice</tabs>
+    <tabs>standard-Case</tabs>
+    <tabs>standard-Solution</tabs>
+    <tabs>standard-Product2</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>Idol__c</tabs>
+    <tabs>Idol_Group__c</tabs>
+    <tabs>Appointment__c</tabs>
+    <tabs>Public_Relations__c</tabs>
+    <tabs>Logistic__c</tabs>
+    <tabs>Location__c</tabs>
+    <tabs>Public_Relations_Records</tabs>
+    <tabs>Idol_Details</tabs>
+    <tabs>Appointment_Creation_Wizard</tabs>
+    <tabs>BTS_Page</tabs>
+    <tabs>Blackpinkpage</tabs>
+    <tabs>straykidspage</tabs>
+    <tabs>Location_Page</tabs>
+</CustomApplication>
